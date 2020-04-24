@@ -1,0 +1,9 @@
+# SNAKE_GAME
+This a basic game built using PYGAME module of python ,, I am completely new to programming ,, I am pretty sure that all of us had played this SNAKE GAME before ,, TAKE A LOOK AT README IT WILL BE BENIFICIAL ,, DOWNLOAD THE ENTIRE FOLDER AND ENJOY THE GAME ....
+
+There must be python installed on your system ,, also you need to setup pygame and mixer modules of python
+NOTIFY ME IF YOU FIND ANY BUG ,, WE WILL RESOLVE IT TOGETHER (^_^)
+
+DOWNLOAD THE ENTIRE FOLDER AND ENJOY THE GAME...
+
+IMPORTANT : MOVEMENT OF SNAKE IS DONE USING ARROW KEYS OF YOUR KEYBOARD ......
